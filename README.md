@@ -1,4 +1,4 @@
 # heyoye
 my learning repository
 <br>
-auhtor- Lakshay Manchanda
+auhtor- Lakshay Manchanda ok
